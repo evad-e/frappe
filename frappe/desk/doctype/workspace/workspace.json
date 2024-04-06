@@ -219,7 +219,7 @@
  ],
  "in_create": 1,
  "links": [],
- "modified": "2023-08-25 15:04:03.419848",
+ "modified": "2024-04-06 12:00:49.747649",
  "modified_by": "Administrator",
  "module": "Desk",
  "name": "Workspace",
@@ -237,6 +237,24 @@
    "role": "Workspace Manager",
    "share": 1,
    "write": 1
+  },
+  {
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Student",
+   "share": 1
+  },
+  {
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Flight Instructor",
+   "share": 1
   }
  ],
  "sort_field": "modified",
